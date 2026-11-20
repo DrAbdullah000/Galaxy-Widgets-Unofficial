@@ -6,6 +6,18 @@
 
 Galaxy Book Widgets is a customizable desktop widget application for Windows 11, inspired by the clean design and fluid interactions of Samsung One UI. It brings useful information and everyday controls together in a cohesive desktop experience, with careful attention to visual consistency, smooth movement, and practical productivity.
 
+
+# Screenshots
+<img width="1150" height="1011" alt="image" src="https://github.com/user-attachments/assets/efb4c67b-1c41-4a38-90f5-87c9b1f7f850" />
+<img width="321" height="436" alt="image" src="https://github.com/user-attachments/assets/8f88ac26-6545-42ba-bc6a-8c9757a7a4b5" />
+<img width="263" height="473" alt="image" src="https://github.com/user-attachments/assets/d4a42825-4b81-4836-ba60-9879cefd57a3" />
+<img width="1193" height="951" alt="image" src="https://github.com/user-attachments/assets/56b31672-98c9-4f8e-8e81-0f3615432911" />
+<img width="1197" height="948" alt="image" src="https://github.com/user-attachments/assets/a36a08f7-3c9a-48ef-b7c1-c3b74659e8bf" />
+<img width="1193" height="948" alt="image" src="https://github.com/user-attachments/assets/de863b3a-851b-41f6-8954-5463d07e3c46" />
+<img width="1197" height="957" alt="image" src="https://github.com/user-attachments/assets/8f199795-3c60-4161-b390-9e996bac52c1" />
+<img width="1192" height="948" alt="image" src="https://github.com/user-attachments/assets/f508e702-2d92-4027-b7ad-0ff5a5ac673a" />
+
+
 ## Features
 
 - **Ten desktop widgets:** Clock, Calendar, Weather, Battery, Device Care, Digital Wellbeing (screen time), Music Player, News, Prayer Times, and Reminders.
